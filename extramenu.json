@@ -1,4 +1,4 @@
 {
-  "version": "3.2.0",
-  "changes": "Fixed Server Latency Error that was caused by ace permissions."
+  "version": "3.3.0",
+  "changes": "Added command open feature and removed unused function."
 }
