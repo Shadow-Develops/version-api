@@ -1,4 +1,4 @@
 {
-  "version": "3.3.0",
-  "changes": "Added command open feature and removed unused function."
+  "version": "3.4.0",
+  "changes": "Fixed an error with custom/non-custom names existing within one vehicle, and other minor bug fixes."
 }
