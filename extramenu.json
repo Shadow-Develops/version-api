@@ -1,4 +1,4 @@
 {
-  "version": "3.4.0",
-  "changes": "Fixed an error with custom/non-custom names existing within one vehicle, and other minor bug fixes."
+  "version": "3.5.0",
+  "changes": "Toggleable Livery selector with the ability for custom names."
 }
